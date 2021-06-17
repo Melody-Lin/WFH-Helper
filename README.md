@@ -1,4 +1,5 @@
 # WFH-Helper
+### Summary  
 A LINE Bot designed for users to check out useful information while working from home.  
 
 • It's a team project in the course of "Programming in Python"  
